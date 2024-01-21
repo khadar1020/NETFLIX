@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 import { BiPlay } from "react-icons/bi"
 import { AiOutlinePlus } from "react-icons/ai"
 
-const apiKey = "05dfb4ef831e66db92d48ad5e95ac133"
+const apiKey = "{create your own API key}"
 const url = "https://api.themoviedb.org/3"
 const imgUrl = "https://image.tmdb.org/t/p/original"
 const upcoming = "upcoming"
