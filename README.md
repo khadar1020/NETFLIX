@@ -1,6 +1,6 @@
 ![Screenshot (889)](https://github.com/khadar1020/NETFLIX/assets/124120102/589739ca-e8e8-4412-85b8-c2bfe74f645d)
 
-we use theMoviedb API key to fetch the data 
+we use theMoviedb API key to fetch the data and in the header.js folder you can see the { create you own key option } replace this with your API Key 
 
 # Getting Started with Create React App
 
