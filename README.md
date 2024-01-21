@@ -1,4 +1,4 @@
-![Screenshot (889)](https://github.com/khadar1020/NETFLIX/assets/124120102/ada01104-50c5-4b89-ba4e-f666f1b28cd1)
+![Screenshot (889)](https://github.com/khadar1020/NETFLIX/assets/124120102/589739ca-e8e8-4412-85b8-c2bfe74f645d)
 
 we use theMoviedb API key to fetch the data 
 
