@@ -1,10 +1,14 @@
+![Screenshot (889)](https://github.com/khadar1020/NETFLIX/assets/124120102/ada01104-50c5-4b89-ba4e-f666f1b28cd1)
+
+we use theMoviedb API key to fetch the data 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: npm start 
 
 ### `npm start`
 
